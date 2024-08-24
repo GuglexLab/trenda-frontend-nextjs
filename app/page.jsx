@@ -1,14 +1,14 @@
 
 import Image from "next/image";
+import SignInpage from "./auth/sign-in/page";
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
 
 const  HomePage = () => {
   return (
     <>
-      <section>
-
-        Production Listing 
-
-      </section>
+       <Header />
+       <Footer />
     </>
 
   );
