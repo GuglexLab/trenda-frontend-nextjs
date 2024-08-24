@@ -1,9 +1,9 @@
 import React from 'react'
 
-const PostingPage = () => {
+const AllPostings = () => {
   return (
-    <div>PostingPage</div>
+    <div>AllPostings</div>
   )
 }
 
-export default PostingPage
+export default AllPostings
